@@ -1,7 +1,1 @@
-
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c40-v2-FruitCollector-Part2/
+### Output Link :https://cheshta-kabra.github.io/C-40/
